@@ -1,0 +1,47 @@
+=== Plugin Name ===
+Contributors: Skender Mustafi
+Plugin Name: Festat Islame
+Plugin URI: http://fjalaime.ch/shkarko/shtesat/festat-islame/
+Donate link: https://www.paypal.com/ch/cgi-bin/webscr?cmd=_flow&SESSION=YvIDXX9kjRjxEGGFNFBBMieatDNaNFZhLzmjxdtrkZ_yWmjwNxnZZh7JWYe&dispatch=5885d80a13c0db1f8e263663d3faee8d195a86f1d217942f7415cf1b2a661693
+Tags: festa,Islam
+Author URI: http://skendermustafi.ch/
+Author: Skender Mustafi
+License: GPLv2 or later
+Requires at least: 2.5
+Tested up to: 3.3.2
+Stable tag: 1.0
+Version: 1.0.1
+
+== Description ==
+Festat Islame është shtesë për WordPress e cila mundëson paraqitjen e festave Islame në kutizë (widget) në datat e caktuara. Kjo shtesë në versionin momental mbështetë e vitit 2012 të publikuara tek faqja zyrtare e Bashkësisë Islame të Republikës së Maqedonisë.
+
+
+== Installation ==
+Shkarko shtesën: Festat Zyrtare të Kosovës (3)
+E nxjerr nga arkivi
+Dosjen “festat-e-Kosoves” e ngarkoni tek “plugins”
+Kaloni tek paneli i administruesit dhe e aktivizoni shtesën
+
+===Përdorimi===
+Kaloni tek “widgets”, po ashtu tek administruesi
+Tani në të gjeni shtesën e instaluar të cilën mund të e vendosni në cilindo shirit të faqes suaj.
+
+== Upgrade Notice ==
+* No reason to upgrade, it's the initial release!
+
+== Screenshots ==
+1. Pamje nga kutizat e instaluara.
+2. Pamja e kutizes ne faqe.
+== Changelog ==
+Vesion 1.0.1
+- Shtimi i porosise për ditët që nuk janë festa.
+
+Version 1.0
+- Paraqitja e festave ne ditet e caktuara.
+- Paraqitja e nje teksti te perzgjedhur ne ditet ne te cilat nuk ka feste.
+
+== Frequently Asked Questions ==
+- Ska pyetje...
+
+== Donations ==
+https://www.paypal.com/ch/cgi-bin/webscr?cmd=_flow&SESSION=YvIDXX9kjRjxEGGFNFBBMieatDNaNFZhLzmjxdtrkZ_yWmjwNxnZZh7JWYe&dispatch=5885d80a13c0db1f8e263663d3faee8d195a86f1d217942f7415cf1b2a661693
